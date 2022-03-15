@@ -1,0 +1,18 @@
+h1 {
+  color: magenta;
+  font-style: helvetica;
+  font-size: 350%;
+  text-align: center;  
+}
+
+h2 {
+  color: forestgreen;
+  font-family: sans-serif;
+  font-style: bold;
+}
+
+p {
+  color: blueviolet;
+  font-size: 150%
+
+}
