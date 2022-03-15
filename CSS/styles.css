@@ -1,18 +1,31 @@
 h1 {
-    color: rgb(32, 32, 150);
-    text-align: center;
-  }
+  color: rgb(255, 5, 5);
+  text-align: center;
+  font-style: italic;
+  font-family: Franklin Gothic Medium;
+  font-weight: bolder;
+  font-size: xxx-large;
+  line-height: 25px;
+}
 
-  h2 {
-    font-style: italic;
-    text-align: center;
+h2 {
+  font-style: italic;
+  text-align: right;
+  stroke-linecap: butt;
+  color: green;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   p {
-     font-family: sans serif;
+     font-family: sans-serif;
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px
+  color: rgb(105, 63, 0);
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 30px;
+  line-height: 80px;
 }
